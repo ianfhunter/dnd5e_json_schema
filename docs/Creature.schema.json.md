@@ -254,72 +254,72 @@ Type: `object`
 	 - _Toggle if shield is being used._
 	 - Type: `boolean`
 	 - Default: _false_
- - <i id="/properties/condtions">condtions</i>
-	 - <i id="/properties/condtions">path: /properties/condtions</i>
+ - <i id="/properties/conditions">conditions</i>
+	 - <i id="/properties/conditions">path: /properties/conditions</i>
 	 - Type: `object`
 	 - **_Properties_**
-		 - <i id="/properties/condtions/properties/Blinded">condtions&thinsp;.&thinsp;Blinded</i>
-			 - <i id="/properties/condtions/properties/Blinded">path: /properties/condtions/properties/Blinded</i>
+		 - <i id="/properties/conditions/properties/Blinded">conditions&thinsp;.&thinsp;Blinded</i>
+			 - <i id="/properties/conditions/properties/Blinded">path: /properties/conditions/properties/Blinded</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Charmed">condtions&thinsp;.&thinsp;Charmed</i>
-			 - <i id="/properties/condtions/properties/Charmed">path: /properties/condtions/properties/Charmed</i>
+		 - <i id="/properties/conditions/properties/Charmed">conditions&thinsp;.&thinsp;Charmed</i>
+			 - <i id="/properties/conditions/properties/Charmed">path: /properties/conditions/properties/Charmed</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Deafened">condtions&thinsp;.&thinsp;Deafened</i>
-			 - <i id="/properties/condtions/properties/Deafened">path: /properties/condtions/properties/Deafened</i>
+		 - <i id="/properties/conditions/properties/Deafened">conditions&thinsp;.&thinsp;Deafened</i>
+			 - <i id="/properties/conditions/properties/Deafened">path: /properties/conditions/properties/Deafened</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Exhaustion">condtions&thinsp;.&thinsp;Exhaustion</i>
-			 - <i id="/properties/condtions/properties/Exhaustion">path: /properties/condtions/properties/Exhaustion</i>
+		 - <i id="/properties/conditions/properties/Exhaustion">conditions&thinsp;.&thinsp;Exhaustion</i>
+			 - <i id="/properties/conditions/properties/Exhaustion">path: /properties/conditions/properties/Exhaustion</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Frightened">condtions&thinsp;.&thinsp;Frightened</i>
-			 - <i id="/properties/condtions/properties/Frightened">path: /properties/condtions/properties/Frightened</i>
+		 - <i id="/properties/conditions/properties/Frightened">conditions&thinsp;.&thinsp;Frightened</i>
+			 - <i id="/properties/conditions/properties/Frightened">path: /properties/conditions/properties/Frightened</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Grappled">condtions&thinsp;.&thinsp;Grappled</i>
-			 - <i id="/properties/condtions/properties/Grappled">path: /properties/condtions/properties/Grappled</i>
+		 - <i id="/properties/conditions/properties/Grappled">conditions&thinsp;.&thinsp;Grappled</i>
+			 - <i id="/properties/conditions/properties/Grappled">path: /properties/conditions/properties/Grappled</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Incapacitated">condtions&thinsp;.&thinsp;Incapacitated</i>
-			 - <i id="/properties/condtions/properties/Incapacitated">path: /properties/condtions/properties/Incapacitated</i>
+		 - <i id="/properties/conditions/properties/Incapacitated">conditions&thinsp;.&thinsp;Incapacitated</i>
+			 - <i id="/properties/conditions/properties/Incapacitated">path: /properties/conditions/properties/Incapacitated</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Invisible">condtions&thinsp;.&thinsp;Invisible</i>
-			 - <i id="/properties/condtions/properties/Invisible">path: /properties/condtions/properties/Invisible</i>
+		 - <i id="/properties/conditions/properties/Invisible">conditions&thinsp;.&thinsp;Invisible</i>
+			 - <i id="/properties/conditions/properties/Invisible">path: /properties/conditions/properties/Invisible</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Necrotic">condtions&thinsp;.&thinsp;Necrotic</i>
-			 - <i id="/properties/condtions/properties/Necrotic">path: /properties/condtions/properties/Necrotic</i>
+		 - <i id="/properties/conditions/properties/Necrotic">conditions&thinsp;.&thinsp;Necrotic</i>
+			 - <i id="/properties/conditions/properties/Necrotic">path: /properties/conditions/properties/Necrotic</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Paralyzed">condtions&thinsp;.&thinsp;Paralyzed</i>
-			 - <i id="/properties/condtions/properties/Paralyzed">path: /properties/condtions/properties/Paralyzed</i>
+		 - <i id="/properties/conditions/properties/Paralyzed">conditions&thinsp;.&thinsp;Paralyzed</i>
+			 - <i id="/properties/conditions/properties/Paralyzed">path: /properties/conditions/properties/Paralyzed</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Petrified">condtions&thinsp;.&thinsp;Petrified</i>
-			 - <i id="/properties/condtions/properties/Petrified">path: /properties/condtions/properties/Petrified</i>
+		 - <i id="/properties/conditions/properties/Petrified">conditions&thinsp;.&thinsp;Petrified</i>
+			 - <i id="/properties/conditions/properties/Petrified">path: /properties/conditions/properties/Petrified</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Poisoned">condtions&thinsp;.&thinsp;Poisoned</i>
-			 - <i id="/properties/condtions/properties/Poisoned">path: /properties/condtions/properties/Poisoned</i>
+		 - <i id="/properties/conditions/properties/Poisoned">conditions&thinsp;.&thinsp;Poisoned</i>
+			 - <i id="/properties/conditions/properties/Poisoned">path: /properties/conditions/properties/Poisoned</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Prone">condtions&thinsp;.&thinsp;Prone</i>
-			 - <i id="/properties/condtions/properties/Prone">path: /properties/condtions/properties/Prone</i>
+		 - <i id="/properties/conditions/properties/Prone">conditions&thinsp;.&thinsp;Prone</i>
+			 - <i id="/properties/conditions/properties/Prone">path: /properties/conditions/properties/Prone</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Restrained">condtions&thinsp;.&thinsp;Restrained</i>
-			 - <i id="/properties/condtions/properties/Restrained">path: /properties/condtions/properties/Restrained</i>
+		 - <i id="/properties/conditions/properties/Restrained">conditions&thinsp;.&thinsp;Restrained</i>
+			 - <i id="/properties/conditions/properties/Restrained">path: /properties/conditions/properties/Restrained</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Stunned">condtions&thinsp;.&thinsp;Stunned</i>
-			 - <i id="/properties/condtions/properties/Stunned">path: /properties/condtions/properties/Stunned</i>
+		 - <i id="/properties/conditions/properties/Stunned">conditions&thinsp;.&thinsp;Stunned</i>
+			 - <i id="/properties/conditions/properties/Stunned">path: /properties/conditions/properties/Stunned</i>
 			 - Type: `boolean`
 			 - Default: _false_
-		 - <i id="/properties/condtions/properties/Unconscious">condtions&thinsp;.&thinsp;Unconscious</i>
-			 - <i id="/properties/condtions/properties/Unconscious">path: /properties/condtions/properties/Unconscious</i>
+		 - <i id="/properties/conditions/properties/Unconscious">conditions&thinsp;.&thinsp;Unconscious</i>
+			 - <i id="/properties/conditions/properties/Unconscious">path: /properties/conditions/properties/Unconscious</i>
 			 - Type: `boolean`
 			 - Default: _false_
  - <i id="/properties/condition_immunities">condition_immunities</i>

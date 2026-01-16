@@ -255,7 +255,7 @@
             "default": "false",
             "description": "Toggle if shield is being used."
         },
-        "condtions": {
+        "conditions": {
             "type": "object",
             "properties": {
                 "Blinded": {
