@@ -56,7 +56,7 @@
                     "type": "string",
                     "default": ""
                 },
-                "Finnesse": {
+                "Finesse": {
                     "type": "boolean",
                     "default": "false"
                 },
