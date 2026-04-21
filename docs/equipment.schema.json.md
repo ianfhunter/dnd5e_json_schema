@@ -1,4 +1,4 @@
-# JSON Schema for D&D 5e equiment.
+# JSON Schema for D&D 5e equipment.
 
 &#36;schema: [http://json-schema.org/draft-07/schema#](http://json-schema.org/draft-07/schema#)
 
